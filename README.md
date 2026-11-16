@@ -34,7 +34,7 @@ Collaborated on an interactive platform designed to make NASA NISAR radar data m
 - Scientific data processing.
 - Embedded systems and IoT development.
 
- 🎯 My Goal
+ My Goal
 
 To build practical engineering projects, strengthen my technical skills, and contribute to solutions that connect technology, science, and society.
 
